@@ -14,3 +14,7 @@ food:
   a constant food count is maintained to keep fishes alive.
 
 time complexity: O(fish_count*food_count)
+
+language used : python
+
+module used   : pygame module 
